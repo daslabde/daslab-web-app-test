@@ -8,8 +8,8 @@ This test should not take more than 30 mins to complete.
 * Fork then install the project localy (npm i)
 * Make your fork private then share it with @etiennea
 * Have a look around the prototype
-* Task1: Add the profile page that is missing, be creative, it should contain some links that allow to delete and export your data for GDPR complience.
-* Task2: Add a simple register / login page. Use https://reqres.in for the backend.
+* Task1: Add the profile page that is missing, be creative, it should contain some links that allow to delete and export your data for GDPR complience. (these shouldn't be functional)
+* Task2: Add a simple register / login page. Use https://reqres.in for the backend. These should be functional, think about how server communication should work.
 * Task3: Test your login / register page using cypress
 * Task4: Write a few sentences on what you would do different or better if you had more time and give your thoughts on the tech stack and file structure. Feedback on the test is also useful.
 
