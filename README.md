@@ -1,7 +1,7 @@
-# DasLab test
+# DasLab frontend test
 
 Here is a simple frontend test to be part of the DasLab frontend team.
-This test should not take more than 30 mins to complete.
+This test should not take more than 1h to complete.
 
 ## Test paramters
 
